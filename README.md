@@ -1,4 +1,4 @@
-# Java ATM Application
+﻿# Java ATM Application
 Hi! I'm create a project with Java Swing Library. This project has 3 important functions.
 - Withdraw Money
 - Deposit Money
@@ -12,11 +12,12 @@ So, each character changes with the next 3 characters.
 - e : h
 - r : u
 - t : w
+# Accounts
 ID: 11111 - Password: 0000
 ID: 15152 - Password: mert
 ID: 85640 - Password: cbilir
 ID: 96425 - Password: 123456
 ## Images
-![Home Page](https://merttopuz.com/git/javaATM_01.jpg)
+![Home Page](https://merttopuz.com/git/javaATM_05.jpg)
 ![Withdraw Money](https://merttopuz.com/git/javaATM_02.jpg)
 ![Account Activities](https://merttopuz.com/git/javaATM_04.jpg)
