@@ -12,6 +12,10 @@ So, each character changes with the next 3 characters.
 - e : h
 - r : u
 - t : w
+ID: 11111 - Password: 0000
+ID: 15152 - Password: mert
+ID: 85640 - Password: cbilir
+ID: 96425 - Password: 123456
 ## Images
 ![Home Page](https://merttopuz.com/git/javaATM_01.jpg)
 ![Withdraw Money](https://merttopuz.com/git/javaATM_02.jpg)
