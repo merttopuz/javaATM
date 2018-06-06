@@ -15,4 +15,4 @@ So, each character changes with the next 3 characters.
 ## Images
 ![Home Page](https://merttopuz.com/git/javaATM_01.jpg)
 ![Withdraw Money](https://merttopuz.com/git/javaATM_02.jpg)
-![Account Activities](https://merttopuz.com/git/javaATM_03.jpg)
+![Account Activities](https://merttopuz.com/git/javaATM_04.jpg)
